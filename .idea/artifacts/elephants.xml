@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="elephants">
+    <output-path>$PROJECT_DIR$/out/artifacts/elephants</output-path>
+    <root id="archive" name="elephants.jar">
+      <element id="module-output" name="elephants" />
+      <element id="directory" name="META-INF">
+        <element id="dir-copy" path="$PROJECT_DIR$/src/main/java/META-INF" />
+      </element>
+    </root>
+  </artifact>
+</component>
